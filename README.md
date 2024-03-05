@@ -16,10 +16,10 @@
  
     
   </a>
-  <a href="https://www.facebook.com/hhoang666/" target="blank">
+  <a href="https://www.facebook.com/carl.3h/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="HuyHoang-facebook" />
   </a>
-  <a href="https://www.instagram.com/hhoang666/" target="blank">
+  <a href="https://www.instagram.com/carl.3h/" target="blank">
      <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="HuyHoang-instagram" />
   <a href="mailto:Xnovhh@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="HuyHoang-email" />
