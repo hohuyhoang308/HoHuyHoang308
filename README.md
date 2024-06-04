@@ -28,8 +28,7 @@
 <h2 align="center">📑 Number Of Profile Visits 📑</h2>
 <br>
 <div align="center">
-  https://count.dsrkafuu.net/{id}
-https://count.dsrkafuu.net/{id}?theme={asoul,gelbooru,moebooru,rule34}&render={auto,pixelated}&length={1-10,auto}&add={0,1}
+[![Moe](https://count.ahwa.cc/SunDoge:moe-counter-cf?theme=rule34)](https://github.com/SunDoge/moe-counter-cf)
 </div>
   
 <h2 align="center">📑 Random Quotes 📑</h2>
