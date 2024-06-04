@@ -28,7 +28,8 @@
 <h2 align="center">📑 Number Of Profile Visits 📑</h2>
 <br>
 <div align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/{hohuyhoang308}/count.svg)
+  https://count.dsrkafuu.net/{id}
+https://count.dsrkafuu.net/{id}?theme={asoul,gelbooru,moebooru,rule34}&render={auto,pixelated}&length={1-10,auto}&add={0,1}
 </div>
   
 <h2 align="center">📑 Random Quotes 📑</h2>
