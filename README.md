@@ -28,7 +28,7 @@
 <h2 align="center">📑 Number Of Profile Visits 📑</h2>
 <br>
 <div align="center">
-[![Moe](https://count.ahwa.cc/SunDoge:moe-counter-cf?theme=rule34)](https://github.com/SunDoge/moe-counter-cf)
+<a  href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@hohuyhoang308?theme=rule34" alt="Moe Counter" title="Moe Counter"></a>
 </div>
   
 <h2 align="center">📑 Random Quotes 📑</h2>
