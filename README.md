@@ -28,7 +28,7 @@
 <h2 align="center">📑 Number Of Profile Visits 📑</h2>
 <br>
 <div align="center">
-  <a  href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@hohuyhoang308?theme=rule34" alt="Moe Counter" title="Moe Counter"></a>
+  ![Visitor Count](https://profile-counter.glitch.me/{hohuyhoang308}/count.svg)
 </div>
   
 <h2 align="center">📑 Random Quotes 📑</h2>
