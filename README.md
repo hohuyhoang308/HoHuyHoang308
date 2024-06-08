@@ -1,8 +1,7 @@
 <!-- HHoang -->
 <a href="#" target="_blank">
   <img src="svg/content.svg"width="1200" alt="Click to see the source" />
-    <img src="https://spotireadme.vercel.app/api/spotify" width="840" height="275">
-    <img src="https://lyricsdepot.vercel.app/api/lyrics" width="840" height="200">
+
 </a>
 
 
