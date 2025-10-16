@@ -48,7 +48,7 @@
 <div align="center">
 
 
-<img align="right" width = "200" height="150" src="https://www.icegif.com/wp-content/uploads/2025/01/hatsune-miku-icegif-20.gif"  />
+<img align="right" width = "200" height="200" src="https://www.icegif.com/wp-content/uploads/2025/01/hatsune-miku-icegif-20.gif"  />
 
 
 ###
