@@ -50,11 +50,10 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hohuyhoang308/hohuyhoang308/output/snake.svg" alt="Snake animation" />
+
 
 ###
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
