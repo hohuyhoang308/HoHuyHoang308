@@ -30,7 +30,7 @@
   </a>
   <a href="https://www.instagram.com/hohuyhoang308/" target="blank">
      <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="HuyHoang-instagram" />
-  <a href="mailto:Xnovhh@gmail.com" target="top">
+  <a href="mailto:hohuyhoang308@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="HuyHoang-email" />
  
 </div>
