@@ -20,19 +20,22 @@
 
 <h2 align="center">💬 Where To Find Me 💬</h2>
 <br>
-<!-- https://icons8.com -->
 <div align="center">
- 
-    
-  </a>
   <a href="https://www.facebook.com/100027117851907/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="HuyHoang-facebook" />
   </a>
+
   <a href="https://www.instagram.com/hohuyhoang308/" target="blank">
      <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="HuyHoang-instagram" />
+  </a>
+
   <a href="mailto:hohuyhoang308@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="HuyHoang-email" />
- 
+  </a>
+
+  <a href="https://hohuyhoang308.github.io/guestbook/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/edit.png" alt="Guestbook - Ho Huy Hoang" title="Guestbook - Ho Huy Hoang" />
+  </a>
 </div>
 <h2 align="center">📑 Number Of Profile Visits 📑</h2>
 <br>
